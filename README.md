@@ -1,4 +1,4 @@
-## Edwin :computer: :mx:
+## Edwin :computer:
 
 BSc. in Physics. Currently doing a MSc. to unify Colloidal Soft Matter and Machine Learning.
 
