@@ -9,3 +9,5 @@ Here are some of my interests:
 - Computer Simulations
 - Statistical Machine Learning (Bayesian formulation and probabilistic models)
 - Programming languages (just for fun)
+
+[![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwinb-ai)](https://github.com/anuraghazra/github-readme-stats)
