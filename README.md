@@ -4,10 +4,9 @@ BSc. in Physics. Currently doing a MSc. to unify Colloidal Soft Matter and Machi
 
 Here are some of my interests:
 
-- Numerical methods
-- Soft Matter Physics
-- Computer Simulations
-- Statistical Machine Learning (Bayesian formulation and probabilistic models)
+- Numerical Methods and Scientific Computing
+- Soft Matter Physics and its computational component
+- Optimization and metaheuristics (still learning)
 - Programming languages (just for fun)
 
 <a href="#">
