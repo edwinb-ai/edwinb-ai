@@ -10,8 +10,5 @@ Here are some of my interests:
 - Programming languages (just for fun)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinb-ai&theme=radical&show_icons=true&count_private=true&hide_border=true&hide=html,jupyter%20notebook" />
-</a>
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinb-ai&theme=radical&show_icons=true&count_private=true&hide_border=true" />
 </a>
