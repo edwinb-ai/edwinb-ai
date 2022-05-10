@@ -1,21 +1,22 @@
-## Edwin :computer:
+## Edwin Bedolla :computer:
 
-BSc. in Physics. Currently doing a MSc. to attempt to apply Machine Learning to Colloidal Soft Matter systems.
+BSc. in Physics.
 
-Here are some of my interests:
+MSc in Applied Sciences, my thesis can be read [here](https://github.com/edwinb-ai/masters-thesis)
+or in the [arXiv](https://arxiv.org/abs/2201.05089).
 
+These are some of my interests:
+
+- Soft Matter Physics and Computer Simulations.
 - Numerical Methods and Scientific Computing.
-- Soft Matter Physics and its computational component.
-- Optimization and metaheuristics (still learning).
+- Optimization and metaheuristics.
 - Programming languages (just for fun).
 - An aficionado of DevOps. I like to use containers, CI and everything in between to make scientific software more robust and reusable.
 
-Some of the programming languages that I can work with:
+Some of the programming languages that I can work with (in order of preference):
 
-- Julia (my favorite)
+- Julia
 - Python
-- Fortran
-- R
+- Fortran 
 - C/C++
-
-Checkout some of the projects I have done with these languages.
+- R
