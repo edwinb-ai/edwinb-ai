@@ -1,8 +1,8 @@
 # Edwin Bedolla :computer:
 
 ## Education
-- BSc. in Physics, graduated with honors.
-- MSc in Applied Sciences, my thesis (Cum Laude) can be read [here](https://github.com/edwinb-ai/masters-thesis)
+- BSc. in Physics.
+- MSc in Applied Sciences, my thesis can be read [here](https://github.com/edwinb-ai/masters-thesis)
 or in the [arXiv](https://arxiv.org/abs/2201.05089).
 - **Currently:** PhD candidate at Utrecht University in Prof. Marjolein Dijkstra's group.
 
