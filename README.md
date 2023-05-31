@@ -11,8 +11,6 @@ These are some of my interests:
 - Soft Matter Physics and Computer Simulations.
 - Numerical Methods and Scientific Computing.
 - Optimization and metaheuristics.
-- Programming languages (just for fun).
-- An aficionado of DevOps. I like to use containers, CI and everything in between to make scientific software more robust and reusable.
 
 Some of the programming languages that I can work with (in order of preference):
 
