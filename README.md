@@ -14,8 +14,8 @@ These are some of my interests:
 
 Some of the programming languages that I can work with (in order of preference):
 
-- Julia
 - Python
-- Fortran 
 - C/C++
+- Julia
+- Fortran 
 - R
